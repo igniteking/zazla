@@ -8,6 +8,7 @@ export default function singup() {
         appearance={{
           baseTheme: dark,
         }}
+        forceRedirectUrl="/dashboard"
       />
     </div>
   );

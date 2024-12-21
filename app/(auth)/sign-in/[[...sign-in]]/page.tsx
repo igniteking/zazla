@@ -8,6 +8,7 @@ export default function singin() {
         appearance={{
           baseTheme: dark,
         }}
+        forceRedirectUrl="/dashboard"
       />
     </div>
   );
